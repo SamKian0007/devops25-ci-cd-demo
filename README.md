@@ -54,3 +54,7 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
+## Dag 2 – CI-övning
+
+Vi testar hur GitHub Actions kör automatiska kontroller.
